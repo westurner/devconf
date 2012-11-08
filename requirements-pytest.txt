@@ -1,0 +1,8 @@
+# py.test PIP requirements
+
+file:///srv/repos/src/py
+file:///srv/repos/src/pytest
+file:///srv/repos/src/coveragepy
+file:///srv/repos/src/cov-core
+file:///srv/repos/src/pytest-cov
+file:///srv/repos/src/pytest-capturelog

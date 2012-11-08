@@ -1,0 +1,4 @@
+# apt-cacher-ng configuration
+
+# http://archive.ubuntu.com/ubuntu/
+http://mirror.anl.gov/ubuntu

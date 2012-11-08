@@ -1,0 +1,3 @@
+-r /srv/repos/etc/requirements-paste.txt
+-r /srv/repos/etc/requirements-appservers.txt
+#-r /srv/repos/etc/requirements-django.txt

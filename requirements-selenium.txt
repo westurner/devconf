@@ -1,0 +1,4 @@
+# selenium pip requirements
+file:///srv/repos/src/isodate
+file:///srv/repos/src/rdflib
+file:///srv/repos/src/selenium

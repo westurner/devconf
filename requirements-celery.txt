@@ -1,0 +1,37 @@
+# Celery PIP requirements
+
+file:///srv/repos/src/python-dateutil
+file:///srv/repos/src/pytz-2011n
+file:///srv/repos/src/anyjson
+
+file:///srv/repos/src/py-amqplib
+
+
+### Pools
+
+## Eventlet
+#eventlet
+#greenlet
+file:///srv/repos/src/eventlet
+
+## Gevent
+#apt: libevent-core-2.0-5 libevent-dev libevent-extra-2.0-5 libevent-openssl-2.0-5 libevent-pthreads-2.0-5 
+#greenlet
+#gevent
+#file:///srv/repos/src/greenlet
+#file:///srv/repos/src/gevent
+
+file:///srv/repos/src/kombu
+file:///srv/repos/src/cl
+
+file:///srv/repos/src/dnspython
+file:///srv/repos/src/django
+file:///srv/repos/src/cyme
+
+file:///srv/repos/src/celerymon
+
+file:///srv/repos/src/celery
+
+
+# + backend
+#file:///srv/repos/src/sqlalchemy

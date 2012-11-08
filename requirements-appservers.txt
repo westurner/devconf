@@ -1,0 +1,6 @@
+# Python app server PIP requirements file
+
+file:///srv/repos/src/gunicorn
+file:///srv/repos/src/greenlet
+file:///srv/repos/src/gevent
+file:///srv/repos/src/waitress

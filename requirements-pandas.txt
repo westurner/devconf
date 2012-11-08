@@ -1,0 +1,34 @@
+# pip requirements file for pandas
+
+# apt-get install -y \
+#   build-essential \
+#   python-dev \
+#   python-setuptools \
+#   python-pip
+
+# sudo apt-get install -y \
+#   python-numpy \
+#   python-scipy \
+#   python-matplotlib \
+#   python-dateutil \
+#   gfortran \
+#   cython
+
+# sys_shared="/usr/share/pyshared"
+# sys_pkgs="/usr/lib/python2.7/dist-packages"
+# site_pkgs="$VIRTUAL_ENV/lib/python2.7/site-packages"
+# for pkg in numpy scipy dateutil; do
+#   from="${sys_pkgs}/${pkg}"
+#   to="${site_pkgs}/${pkg}"
+#   rm -fv "${to}"
+#   ln -s -v "${from}" "${to}"
+# done
+
+# file:///srv/repos/src/numpy
+# file:///srv/repos/src/scipy
+
+-r /srv/repos/etc/requirements-matplotlib.txt
+
+file:///srv/repos/src/pytz
+file:///srv/repos/src/dateutil
+#--no-deps file:////srv/repos/src/pandas@0.8.1#egg=pandas

@@ -1,0 +1,3 @@
+file:///srv/repos/src/nose
+file:///srv/repos/src/coveragepy
+file:///srv/repos/src/nose-xcover

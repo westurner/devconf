@@ -1,0 +1,7 @@
+# matplotlib PIP requirements file
+
+# sudo apt-get install -y \
+#   libfreetype6-dev \
+#   libpng12-dev
+
+file:///srv/repos/src/matplotlib

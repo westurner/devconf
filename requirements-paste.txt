@@ -1,0 +1,12 @@
+file:///srv/repos/src/tempita
+file:///srv/repos/src/paste
+file:///srv/repos/src/pastedeploy
+file:///srv/repos/src/pastescript
+
+file:///srv/repos/src/webob
+
+-r /srv/repos/etc/requirements-weberror.txt
+
+file:///srv/repos/src/zope.interface
+file:///srv/repos/src/repoze.who
+file:///srv/repos/src/python-openid

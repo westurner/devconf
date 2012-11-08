@@ -1,0 +1,12 @@
+# IPython PIP Requirements
+
+# apt:libzmq-dev, yum:zeromq-devel
+file:///srv/repos/src/pygments
+file:///srv/repos/src/pyzmq
+file:///srv/repos/src/tornado
+
+# apt:readline
+file:///srv/repos/src/ipython
+
+# TODO: GTK
+#file:///srv/repos/src/matplotlib

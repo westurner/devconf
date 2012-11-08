@@ -1,0 +1,4 @@
+file:///srv/repos/src/jinja2
+file:///srv/repos/src/docutils/docutils
+file:///srv/repos/src/pygments
+file:///srv/repos/src/sphinx

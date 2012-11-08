@@ -1,0 +1,5 @@
+# supervisor requirements
+
+file:///srv/repos/src/pygments
+file:///srv/repos/src/meld3
+file:///srv/repos/src/supervisor

@@ -1,0 +1,64 @@
+AutocompleteUsers==0.4.1
+Chameleon==2.9.2
+-e svn+http://svn.edgewall.org/repos/genshi/tags/0.6.0@1123#egg=Genshi-0.6.0
+-e hg+gh://gawel/GitWeb@fa3bc19f62073988649f1df6f29e592983ef2ca1#egg=GitWeb-master
+HgTimeline==0.5
+## FIXME: could not find svn URL in dependency_links for this package:
+HudsonTrac==0.4-r10970
+## FIXME: could not find svn URL in dependency_links for this package:
+Jinja2==2.6dev-20120628
+Mako==0.7.0
+MarkupSafe==0.15
+NavAdd==0.1
+-e hg+bb://ianb/paste@852439f67241c08144b309e348c2e703d301ac13#egg=Paste-dev
+-e hg+bb://ianb/pastedeploy@38b890de8cd189655260fecdc6f9e88ca867ea12#egg=PasteDeploy-dev
+-e hg+bb://ianb/pastescript@edb9ca5fdc1d47953896d131907eff810202089b#egg=PasteScript-dev
+-e hg+bb://birkenfeld/pygments-main@81d98983fd7f6090d6a52d98ed88b70893a8eaa8#egg=Pygments-dev
+SQLAlchemy==0.7.5dev
+## FIXME: could not find svn URL in dependency_links for this package:
+Sphinx==1.1.2dev-20120628
+-e hg+bb://ianb/tempita@167323789bebc7cfa6aaac896468def07a48ddd8#egg=Tempita-dev
+TicketReminderPlugin==0.1
+-e hg+bb://edgewall/trac@bcf55e1847bbd53d0f832b74399b93a57dd5ad49#egg=Trac-paste_wsgi.patch
+## FIXME: could not find svn URL in dependency_links for this package:
+TracBookmark==0.1-r10436
+-e svn+http://svn.pythonpaste.org/Paste/TracPaste/trunk@4717#egg=TracPaste-0.0dev_r4717-py2.7-dev_r4717
+## FIXME: could not find svn URL in dependency_links for this package:
+TracTicketTemplate==0.7-r10977
+-e hg+bb://bbangert/weberror@bd3e48dd28b4f89a88f163cffa998149dfb152c3#egg=WebError-dev
+-e hg+gh://Pylons/webob@167643be4573e9bcef2bb83e815aba6b238691b7#egg=WebOb-feature.pathinfogeddon
+## FIXME: could not find svn URL in dependency_links for this package:
+WorkflowEditorPlugin==1.1.5-r10055
+argparse==1.2.1
+-e hg+bb://cmclaughlin/collective.eggproxy@c3d7fb16116a4618ce72864f5135122a2d6c948e#egg=collective.eggproxy-dev
+distribute==0.6.24
+docutils==0.9
+-e git+https://github.com/jelmer/dulwich.git@d9adcd03b7846895c193410d4aced18936b949d2#egg=dulwich-dev
+grin==1.2.1
+-e hg+gh://benoitc/gunicorn.git@59f39cbfd6dff3e2cf08c19fd2ab5f7763cba748#egg=gunicorn-master
+-e git://github.com/schacon/hg-git.git@85649cf7ae9690b25c3a5b752d987c780545543c#egg=hg_git-dev
+ipython==0.13.dev
+isodate==0.4.7
+matplotlib==1.2.x
+-e hg+gh://Supervisor/meld3@335d2579c4930f68a96c89b91f14ef0a7d2e7606#egg=meld3-0.6.8
+-e hg+http://hg.intevation.org/mercurial/crew-stable/@e78ebfbbd72de45a042476a3315d0bbbecd03134#egg=mercurial-hgweb_readme-in-summary.patch
+numpy==1.6.2
+pyramid==1.3a5
+-e hg+https://code.google.com/p/pysqlite/@39c09e8af27c71d787769fb12fe2d5c3ca733bdc#egg=pysqlite-dev
+python-dateutil==2.0
+-e hg+gh://openid/python-openid@f1a437afbb512d365dc23f1a75634805fa5a1118#egg=python_openid-master
+pyzmq==2.1dev
+rdflib==3.1.0
+repoze.lru==0.5
+-e svn+http://svn.repoze.org/repoze.trac/trunk@9618#egg=repoze.trac-0.7_-py2.7-dev_r9618
+-e hg+gh://repoze/repoze.who@aa5024b08ac0c15682c0f9d6974e9f8ef3afebb9#egg=repoze.who-2.0
+-e svn+https://selenium.googlecode.com/svn/trunk@15584#egg=selenium-2.17.0-py2.7-dev_r15584
+-e hg+gh://Supervisor/supervisor.git@65aa9efad1b74eb721d3338662d764db630ebc3a#egg=supervisor-master
+-e hg+gh://facebook/tornado@677f78710dc3d358c5d03eac6cfc5c581ec8c613#egg=tornado-v2.2.0
+translationstring==1.1
+venusian==1.0a6
+-e git+https://github.com/Pylons/waitress.git@e95e78158aa6d533044a3a80236a5db6fc70cdf1#egg=waitress-dev
+whiteboard==0.1.0-trac0.12
+wsgiref==0.1.2
+zope.deprecation==4.0.0
+-e svn+svn://svn.zope.org/repos/main/zope.interface/trunk@123036#egg=zope.interface-3.8.1dev-py2.7-dev_r123036

@@ -1,0 +1,3 @@
+file:///srv/repos/etc/paste
+file:///srv/repos/etc/webob
+file:///srv/repos/etc/fanstatic

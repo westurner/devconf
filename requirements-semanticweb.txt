@@ -1,0 +1,19 @@
+# RDF/SPARQL/OWL requirements
+
+-e file:///srv/repos/src/rdflib
+-e file:///srv/repos/src/pyparsing
+-e file:///srv/repos/src/rdfextras
+-e file:///srv/repos/src/isodate
+-e file:///srv/repos/src/fuxi
+
+-e file:///srv/repos/src/simplejson
+-e file:///srv/repos/src/surfrdf
+
+-e file:///srv/repos/src/sparql-wrapper
+-e file:///srv/repos/src/surfrdf/plugins/surf.rdflib
+-e file:///srv/repos/src/surfrdf/plugins/surf.sparql_protocol
+
+-e file:///srv/repos/src/surf.virtuoso_protocol
+
+#-e file:///srv/repos/src/pyodbc/pyodbc-2.1.8
+#-e file:///srv/repos/src/virtuoso

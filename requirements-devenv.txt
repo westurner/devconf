@@ -1,0 +1,27 @@
+# development requirements
+
+file:///srv/repos/src/distribute
+
+-r /srv/repos/etc/requirements-appservers.txt
+
+-r /srv/repos/etc/requirements-supervisor.txt
+
+-r /srv/repos/etc/requirements-sqlalchemy.txt
+
+-r /srv/repos/etc/requirements-paste.txt
+
+-r /srv/repos/etc/requirements-hg.txt
+
+-r /srv/repos/etc/requirements-ipython.txt
+
+#-r /srv/repos/etc/requirements-trac.txt
+
+#-r /srv/repos/etc/requirements-selenium.txt
+
+#-r /srv/repos/etc/requirements-pyes.txt
+
+file:///srv/repos/src/GitWeb
+
+file:///srv/repos/src/collective.eggproxy
+
+

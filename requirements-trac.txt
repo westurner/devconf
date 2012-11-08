@@ -1,0 +1,18 @@
+# Trac PIP requirements
+
+file:///srv/repos/src/docutils/docutils
+file:///srv/repos/src/pygments
+
+file:///srv/repos/src/genshi
+file:///srv/repos/src/trac
+file:///srv/repos/src/repoze.trac
+file:///srv/repos/src/trac-hgtl
+file:///srv/repos/src/trac-hudsontracplugin
+#file:///srv/repos/src/trac-sqlalchemybridgeintegration
+file:///srv/repos/src/trac-workfloweditorplugin
+file:///srv/repos/src/trac-tickettemplateplugin
+file:///srv/repos/src/trac-bookmarkplugin
+file:///srv/repos/src/trac-navaddplugin
+file:///srv/repos/src/trac-autocompleteusersplugin
+file:///srv/repos/src/trac-ticketreminderplugin
+file:///srv/repos/src/trac-whiteboardplugin

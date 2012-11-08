@@ -1,0 +1,6 @@
+# Mercurial PIP requirements file
+
+file:///srv/repos/src/mercurial
+
+file:///srv/repos/src/dulwich
+file:///srv/repos/src/hg-git

@@ -1,0 +1,15 @@
+# pyes PIP requirements
+
+# Installing collected packages: pyes, requests, certifi, oauthlib, chardet, rsa, pyasn1
+file:///srv/repos/src/requests
+file:///srv/repos/src/certifi
+file:///srv/repos/src/oauthlib
+file:///srv/repos/src/chardet
+file:///srv/repos/src/python-rsa
+
+pyasn1
+#file:///srv/repos/src/pyasn1
+
+file:///srv/repos/src/pyes#
+
+

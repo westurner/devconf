@@ -1,0 +1,36 @@
+Warning: cannot find svn location for mercurial==2.2.2-20-e78ebfbbd72d-20120805
+Warning: cannot find svn location for Pygments==1.4dev-20120805
+GitWeb==0.4
+Paste==1.7.5.1
+PasteDeploy==1.5.1.dev1
+PasteScript==1.7.5
+## FIXME: could not find svn URL in dependency_links for this package:
+Pygments==1.4dev-20120805
+SQLAlchemy==0.7.8dev
+Tempita==0.5.1dev
+WebError==0.10.3
+WebOb==1.2.2
+argparse==1.2.1
+collective.eggproxy==0.6dev
+distribute==0.6.25dev
+docutils==0.9
+dulwich==0.8.3
+gevent==1.0dev
+greenlet==0.3.3
+gunicorn==0.14.5
+hg-git==0.3.1
+ipython==0.13.dev
+isodate==0.4.7
+meld3==0.6.8
+## FIXME: could not find svn URL in dependency_links for this package:
+mercurial==2.2.2-20-e78ebfbbd72d-20120805
+pysqlite==2.6.3
+python-openid==2.2.5
+pyzmq==2.1dev
+rdflib==3.3.0-dev
+repoze.who==2.0
+supervisor==3.0a12
+tornado==2.2
+waitress==0.8.1
+wsgiref==0.1.2
+zope.interface==4.0.2dev

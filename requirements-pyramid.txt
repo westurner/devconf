@@ -1,9 +1,15 @@
 # pyramid PIP requirements
 #file:///srv/repos/src/cryptacular
+
+#file:///srv/repos/src/setuptools
+file:///srv/repos/src/distribute
+
 file:///srv/repos/src/webob
 
 file:///srv/repos/src/repoze.lru
 file:///srv/repos/src/zope.interface
+
+file:///srv/repos/src/Chameleon
 
 file:///srv/repos/src/pyramid
 file:///srv/repos/src/jinja2
@@ -11,4 +17,4 @@ file:///srv/repos/src/pyramid_jinja2
 
 # development
 #-e hg+/srv/repos/src/pyramid_debugtoolbar#egg=pyramid_debugtoolbar
-file:///srv/repos/src/pyramid_debugtoolbar
+#file:///srv/repos/src/pyramid_debugtoolbar
